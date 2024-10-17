@@ -26,7 +26,10 @@
     "StartDate": "2023-03-05",
     "EndDate": "2023-12-20",
     "Status": "In Progress",
-    "Manager": "Mark Spencer",
+        "Manager": {
+        "Manager Name":"Susan LeeSin",
+        "managerId" : 1234
+    }
     "Budget": 95000
   },
   {
@@ -36,7 +39,10 @@
     "StartDate": "2023-04-10",
     "EndDate": "2023-09-30",
     "Status": "Completed",
-    "Manager": "Susan Lee",
+    "Manager": {
+        "Manager Name":"Susan Lee",
+        "managerId" : 1235
+    }
     "Budget": 65000
   },
   {
