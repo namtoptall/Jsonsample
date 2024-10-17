@@ -26,10 +26,10 @@
     "StartDate": "2023-03-05",
     "EndDate": "2023-12-20",
     "Status": "In Progress",
-        "Manager": {
-        "Manager Name":"Susan LeeSin",
-        "managerId" : 1234
-    }
+    "Manager": {
+      "ManagerName": "Susan LeeSin",
+      "managerId": 1234
+    },
     "Budget": 95000
   },
   {
@@ -40,9 +40,9 @@
     "EndDate": "2023-09-30",
     "Status": "Completed",
     "Manager": {
-        "Manager Name":"Susan Lee",
-        "managerId" : 1235
-    }
+      "ManagerName": "Susan Lee",
+      "managerId": 1235
+    },
     "Budget": 65000
   },
   {
@@ -294,5 +294,5 @@
     "Status": "In Progress",
     "Manager": "Cynthia Murray",
     "Budget": 160000
-  },
-
+  }
+]
