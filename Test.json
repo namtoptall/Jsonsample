@@ -26,7 +26,7 @@
     "StartDate": "2023-03-05",
     "EndDate": "2023-12-20",
     "Status": "In Progress",
-    "Manager": "ChoAz"
+    "Manager": "ChoAz",
     "Budget": 95000
   }, 
   {
@@ -36,7 +36,7 @@
     "StartDate": "2023-04-10",
     "EndDate": "2023-09-30",
     "Status": "Completed",
-    "Manager": "Susan0175"
+    "Manager": "Susan0175",
     "Budget": 65000
   },
   {
@@ -98,195 +98,5 @@
     "Status": "In Progress",
     "Manager": "Paul Rogers",
     "Budget": 70000
-  },
-  {
-    "ProjectId": 11,
-    "ProjectName": "Blockchain-based Supply Chain",
-    "Description": "Develop a blockchain solution for supply chain tracking.",
-    "StartDate": "2023-05-05",
-    "EndDate": "2024-02-20",
-    "Status": "In Progress",
-    "Manager": "Karen Wilson",
-    "Budget": 125000
-  },
-  {
-    "ProjectId": 12,
-    "ProjectName": "AI Research Initiative",
-    "Description": "Conduct research into AI advancements and applications.",
-    "StartDate": "2023-06-01",
-    "EndDate": "2024-05-15",
-    "Status": "In Progress",
-    "Manager": "Alice Johnson",
-    "Budget": 150000
-  },
-  {
-    "ProjectId": 13,
-    "ProjectName": "5G Network Deployment",
-    "Description": "Deploy a 5G network infrastructure for faster connectivity.",
-    "StartDate": "2023-03-20",
-    "EndDate": "2024-01-31",
-    "Status": "In Progress",
-    "Manager": "James Scott",
-    "Budget": 200000
-  },
-  {
-    "ProjectId": 14,
-    "ProjectName": "Smart City Development",
-    "Description": "Develop smart city solutions for urban infrastructure.",
-    "StartDate": "2023-04-01",
-    "EndDate": "2024-03-20",
-    "Status": "In Progress",
-    "Manager": "William Harris",
-    "Budget": 300000
-  },
-  {
-    "ProjectId": 15,
-    "ProjectName": "E-learning Platform",
-    "Description": "Create an interactive e-learning platform for educational institutions.",
-    "StartDate": "2023-07-10",
-    "EndDate": "2024-02-28",
-    "Status": "In Progress",
-    "Manager": "Barbara King",
-    "Budget": 90000
-  },
-  {
-    "ProjectId": 16,
-    "ProjectName": "IoT Smart Home Devices",
-    "Description": "Develop smart home devices integrated with IoT technologies.",
-    "StartDate": "2023-01-20",
-    "EndDate": "2023-12-10",
-    "Status": "In Progress",
-    "Manager": "Steven Allen",
-    "Budget": 115000
-  },
-  {
-    "ProjectId": 17,
-    "ProjectName": "Digital Marketing Campaign",
-    "Description": "Run a digital marketing campaign to boost online presence.",
-    "StartDate": "2023-02-25",
-    "EndDate": "2023-10-01",
-    "Status": "In Progress",
-    "Manager": "Laura Martinez",
-    "Budget": 60000
-  },
-  {
-    "ProjectId": 18,
-    "ProjectName": "Renewable Energy Initiative",
-    "Description": "Invest in renewable energy solutions for sustainability.",
-    "StartDate": "2023-03-15",
-    "EndDate": "2024-06-30",
-    "Status": "In Progress",
-    "Manager": "Henry Collins",
-    "Budget": 250000
-  },
-  {
-    "ProjectId": 19,
-    "ProjectName": "Mobile Payment System",
-    "Description": "Develop a secure mobile payment system for retail.",
-    "StartDate": "2023-05-20",
-    "EndDate": "2024-02-15",
-    "Status": "In Progress",
-    "Manager": "Gary Evans",
-    "Budget": 100000
-  },
-  {
-    "ProjectId": 20,
-    "ProjectName": "IT Infrastructure Modernization",
-    "Description": "Modernize the IT infrastructure for higher performance and security.",
-    "StartDate": "2023-04-05",
-    "EndDate": "2023-12-20",
-    "Status": "In Progress",
-    "Manager": "Peter Nelson",
-    "Budget": 175000
-  },
-  {
-    "ProjectId": 21,
-    "ProjectName": "E-Health Portal",
-    "Description": "Develop an online portal for patients to access health records.",
-    "StartDate": "2023-03-01",
-    "EndDate": "2023-11-01",
-    "Status": "Completed",
-    "Manager": "Linda Clark",
-    "Budget": 85000
-  },
-  {
-    "ProjectId": 22,
-    "ProjectName": "Remote Work Solutions",
-    "Description": "Implement remote work solutions for employees.",
-    "StartDate": "2023-01-15",
-    "EndDate": "2023-06-30",
-    "Status": "Completed",
-    "Manager": "Sarah Lewis",
-    "Budget": 70000
-  },
-  {
-    "ProjectId": 23,
-    "ProjectName": "SaaS Platform Development",
-    "Description": "Develop a SaaS platform for small businesses.",
-    "StartDate": "2023-02-10",
-    "EndDate": "2023-12-01",
-    "Status": "In Progress",
-    "Manager": "Ethan Young",
-    "Budget": 120000
-  },
-  {
-    "ProjectId": 24,
-    "ProjectName": "Big Data Analytics",
-    "Description": "Implement big data analytics for customer behavior analysis.",
-    "StartDate": "2023-04-10",
-    "EndDate": "2024-01-15",
-    "Status": "In Progress",
-    "Manager": "Danielle Walker",
-    "Budget": 105000
-  },
-  {
-    "ProjectId": 25,
-    "ProjectName": "Content Management System (CMS)",
-    "Description": "Develop a CMS for managing website content.",
-    "StartDate": "2023-05-15",
-    "EndDate": "2023-11-30",
-    "Status": "In Progress",
-    "Manager": "Keith Brooks",
-    "Budget": 50000
-  },
-  {
-    "ProjectId": 26,
-    "ProjectName": "Augmented Reality (AR) App",
-    "Description": "Develop an AR app for interactive shopping experiences.",
-    "StartDate": "2023-01-20",
-    "EndDate": "2023-12-20",
-    "Status": "In Progress",
-    "Manager": "Rebecca Bell",
-    "Budget": 98000
-  },
-  {
-    "ProjectId": 27,
-    "ProjectName": "Predictive Maintenance",
-    "Description": "Implement predictive maintenance using IoT and AI.",
-    "StartDate": "2023-04-05",
-    "EndDate": "2024-03-01",
-    "Status": "In Progress",
-    "Manager": "George Parker",
-    "Budget": 145000
-  },
-  {
-    "ProjectId": 28,
-    "ProjectName": "Logistics Optimization",
-    "Description": "Optimize logistics operations using AI-driven analytics.",
-    "StartDate": "2023-03-25",
-    "EndDate": "2024-01-20",
-    "Status": "In Progress",
-    "Manager": "Harold Sanders",
-    "Budget": 100000
-  },
-  {
-    "ProjectId": 29,
-    "ProjectName": "Smart Agriculture",
-    "Description": "Implement smart agriculture solutions for precision farming.",
-    "StartDate": "2023-02-15",
-    "EndDate": "2024-05-10",
-    "Status": "In Progress",
-    "Manager": "Cynthia Murray",
-    "Budget": 160000
   }
 ]
