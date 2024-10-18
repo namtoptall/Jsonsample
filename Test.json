@@ -26,12 +26,9 @@
     "StartDate": "2023-03-05",
     "EndDate": "2023-12-20",
     "Status": "In Progress",
-    "Manager": {
-      "ManagerName": "Susan LeeSin",
-      "managerId": 1234
-    },
+    "Manager": "ChoAz"
     "Budget": 95000
-  },
+  }, 
   {
     "ProjectId": 4,
     "ProjectName": "Inventory Management System",
@@ -39,10 +36,7 @@
     "StartDate": "2023-04-10",
     "EndDate": "2023-09-30",
     "Status": "Completed",
-    "Manager": {
-      "ManagerName": "Susan Lee",
-      "managerId": 1235
-    },
+    "Manager": "Susan0175"
     "Budget": 65000
   },
   {
