@@ -1,102 +1,102 @@
 [
-  {
-    "ProjectId": 1,
-    "ProjectName": "AI-Powered Chatbot",
-    "Description": "Develop an AI-powered chatbot for customer service.",
-    "StartDate": "2023-01-10",
-    "EndDate": "2023-05-20",
-    "Status": "Completed",
-    "Manager": "John Doe",
-    "Budget": 50000
-  },
-  {
-    "ProjectId": 2,
-    "ProjectName": "E-commerce Platform",
-    "Description": "Build an online e-commerce platform for a retail company.",
-    "StartDate": "2023-02-01",
-    "EndDate": "2023-10-15",
-    "Status": "In Progress",
-    "Manager": "Jane Smith",
-    "Budget": 120000
-  },
-  {
-    "ProjectId": 3,
-    "ProjectName": "Mobile Banking App",
-    "Description": "Develop a secure and user-friendly mobile banking application.",
-    "StartDate": "2023-03-05",
-    "EndDate": "2023-12-20",
-    "Status": "In Progress",
-    "Manager": "ChoAz",
-    "Budget": 95000
-  }, 
-  {
-    "ProjectId": 4,
-    "ProjectName": "Inventory Management System",
-    "Description": "Implement an automated inventory management system.",
-    "StartDate": "2023-04-10",
-    "EndDate": "2023-09-30",
-    "Status": "Completed",
-    "Manager": "Susan0175",
-    "Budget": 65000
-  },
-  {
-    "ProjectId": 5,
-    "ProjectName": "Data Analytics Dashboard",
-    "Description": "Create a real-time data analytics dashboard for business intelligence.",
-    "StartDate": "2023-05-01",
-    "EndDate": "2023-12-01",
-    "Status": "In Progress",
-    "Manager": "Robert Brown",
-    "Budget": 80000
-  },
-  {
-    "ProjectId": 6,
-    "ProjectName": "Website Redesign",
-    "Description": "Redesign the company's website to improve user experience.",
-    "StartDate": "2023-06-15",
-    "EndDate": "2023-11-20",
-    "Status": "In Progress",
-    "Manager": "Emily Green",
-    "Budget": 45000
-  },
-  {
-    "ProjectId": 7,
-    "ProjectName": "Cybersecurity Enhancement",
-    "Description": "Enhance the cybersecurity measures of the company's IT infrastructure.",
-    "StartDate": "2023-02-20",
-    "EndDate": "2023-09-15",
-    "Status": "Completed",
-    "Manager": "Tom White",
-    "Budget": 95000
-  },
-  {
-    "ProjectId": 8,
-    "ProjectName": "Cloud Migration",
-    "Description": "Migrate the company's infrastructure to a cloud environment.",
-    "StartDate": "2023-03-10",
-    "EndDate": "2023-12-30",
-    "Status": "In Progress",
-    "Manager": "Rachel Adams",
-    "Budget": 110000
-  },
-  {
-    "ProjectId": 9,
-    "ProjectName": "Customer Relationship Management (CRM) System",
-    "Description": "Develop and deploy a CRM system to manage customer interactions.",
-    "StartDate": "2023-01-15",
-    "EndDate": "2023-09-25",
-    "Status": "Completed",
-    "Manager": "Nancy Hill",
-    "Budget": 60000
-  },
-  {
-    "ProjectId": 10,
-    "ProjectName": "HR Automation",
-    "Description": "Implement an automation system to streamline HR processes.",
-    "StartDate": "2023-07-01",
-    "EndDate": "2023-12-15",
-    "Status": "In Progress",
-    "Manager": "Paul Rogers",
-    "Budget": 70000
-  }
+    {
+        "ProjectId": 1,
+        "ProjectName": "AI-Powered Chatbot",
+        "Description": "Develop an AI-powered chatbot for customer service.",
+        "StartDate": "2023-01-10",
+        "EndDate": "2023-05-20",
+        "Status": "Completed",
+        "Manager": "John Doe",
+        "Budget": 50000
+    },
+    {
+        "ProjectId": 2,
+        "ProjectName": "E-commerce Platform",
+        "Description": "Build an online e-commerce platform for a retail company.",
+        "StartDate": "2023-02-01",
+        "EndDate": "2023-10-15",
+        "Status": "In Progress",
+        "Manager": "Jane Smith",
+        "Budget": 120000
+    },
+    {
+        "ProjectId": 3,
+        "ProjectName": "Mobile Banking App",
+        "Description": "Develop a secure and user-friendly mobile banking application.",
+        "StartDate": "2023-03-05",
+        "EndDate": "2023-12-20",
+        "Status": "In Progress",
+        "Manager": "ChoAz",
+        "Budget": 95000
+    },
+    {
+        "ProjectId": 4,
+        "ProjectName": "Inventory Management System",
+        "Description": "Implement an automated inventory management system.",
+        "StartDate": "2023-04-10",
+        "EndDate": "2023-09-30",
+        "Status": "Completed",
+        "Manager": "Susan0175",
+        "Budget": 65000
+    },
+    {
+        "ProjectId": 5,
+        "ProjectName": "Data Analytics Dashboard",
+        "Description": "Create a real-time data analytics dashboard for business intelligence.",
+        "StartDate": "2023-05-01",
+        "EndDate": "2023-12-01",
+        "Status": "In Progress",
+        "Manager": "Robert Brown",
+        "Budget": 80000
+    },
+    {
+        "ProjectId": 6,
+        "ProjectName": "Website Redesign",
+        "Description": "Redesign the company's website to improve user experience.",
+        "StartDate": "2023-06-15",
+        "EndDate": "2023-11-20",
+        "Status": "In Progress",
+        "Manager": "Emily Green",
+        "Budget": 45000
+    },
+    {
+        "ProjectId": 7,
+        "ProjectName": "Cybersecurity Enhancement",
+        "Description": "Enhance the cybersecurity measures of the company's IT infrastructure.",
+        "StartDate": "2023-02-20",
+        "EndDate": "2023-09-15",
+        "Status": "Completed",
+        "Manager": "Tom White",
+        "Budget": 95000
+    },
+    {
+        "ProjectId": 8,
+        "ProjectName": "Cloud Migration",
+        "Description": "Migrate the company's infrastructure to a cloud environment.",
+        "StartDate": "2023-03-10",
+        "EndDate": "2023-12-30",
+        "Status": "In Progress",
+        "Manager": "Rachel Adams",
+        "Budget": 110000
+    },
+    {
+        "ProjectId": 9,
+        "ProjectName": "Customer Relationship Management (CRM) System",
+        "Description": "Develop and deploy a CRM system to manage customer interactions.",
+        "StartDate": "2023-01-15",
+        "EndDate": "2023-09-25",
+        "Status": "Completed",
+        "Manager": "Nancy Hill",
+        "Budget": 60000
+    },
+    {
+        "ProjectId": 10,
+        "ProjectName": "HR Automation",
+        "Description": "Implement an automation system to streamline HR processes.",
+        "StartDate": "2023-07-01",
+        "EndDate": "2023-12-15",
+        "Status": "In Progress",
+        "Manager": "Paul Rogers",
+        "Budget": 70000
+    }
 ]
